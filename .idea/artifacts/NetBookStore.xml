@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="NetBookStore">
+    <output-path>$PROJECT_DIR$/out/artifacts/NetBookStore</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="NetBookStore" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:1.2.6" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:1.2.6" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: oro:oro:2.0.8" />
+          <element id="library" level="project" name="Maven: spring:spring-web:1.0.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:1.2.6" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-dao:1.2.6" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:1.2.6" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:1.2.6" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.1" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.0.4" />
+          <element id="library" level="project" name="Maven: c3p0:c3p0:0.9.1.2" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.22" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
+        </element>
+      </element>
+      <element id="library" level="project" name="Maven: javax.transaction:jta:1.0.1B" />
+      <element id="javaee-facet-resources" facet="NetBookStore/web/Web" />
+    </root>
+  </artifact>
+</component>
